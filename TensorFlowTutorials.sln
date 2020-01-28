@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TensorFlow2quickstartforexperts", "TensorFlow2quickstartforexperts\TensorFlow2quickstartforexperts.pyproj", "{8487B58E-68F9-4D36-9EF3-C1C05AFBC9A9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TensorFlow2QuickstartforBeginners", "TensorFlow2quickstartforbeginners\TensorFlow2QuickstartforBeginners.pyproj", "{F32F7707-96CE-4610-B506-D73381C96F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8487B58E-68F9-4D36-9EF3-C1C05AFBC9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8487B58E-68F9-4D36-9EF3-C1C05AFBC9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32F7707-96CE-4610-B506-D73381C96F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32F7707-96CE-4610-B506-D73381C96F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FDCC969-E12D-4C8D-90F7-A5806D84C182}
+	EndGlobalSection
+EndGlobal
